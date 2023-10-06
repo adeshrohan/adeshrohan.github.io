@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at UC San Diego"
   location         : "San Diego, CA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   email            : "adm012@ucsd.edu"
   googlescholar    : "http://scholar.google.com/citations?user=Yw5kFi0AAAAJ&hl=en&oi=ao"
   linkedin         : "adeshrmishra"
@@ -96,8 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adeshrohan"
-  researchgate     : "https://www.researchgate.net/profile/Adesh-Mishra-2"
+  github           : #"adeshrohan"
+  researchgate     : #"https://www.researchgate.net/profile/Adesh-Mishra-2"
   google_plus      :
   keybase          :
   instagram        :
