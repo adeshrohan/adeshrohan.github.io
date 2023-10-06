@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Adesh Rohan Mishra"
-  avatar           : "profile.png"
-  bio              : "PhD student, UC San Diego"
+  avatar           : "211007_CMU_MSE_Adesh Rohan Mishra_0970.jpg"
+  bio              : "PhD student at UC San Diego"
   location         : "San Diego, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=Yw5kFi0AAAAJ&hl=en&oi=ao"
   email            : "adm012@ucsd.edu"
   researchgate     : "https://www.researchgate.net/profile/Adesh-Mishra-2"
