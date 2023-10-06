@@ -86,9 +86,9 @@ author:
   location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=Yw5kFi0AAAAJ&hl=en&oi=ao"
   email            : "adm012@ucsd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Adesh-Mishra-2"
+  googlescholar    : "http://scholar.google.com/citations?user=Yw5kFi0AAAAJ&hl=en&oi=ao"
+  linkedin         : "adeshrmishra"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,12 +97,12 @@ author:
   facebook         :
   foursquare       :
   github           : "adeshrohan"
+  researchgate     : "https://www.researchgate.net/profile/Adesh-Mishra-2"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "adeshrmishra"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
